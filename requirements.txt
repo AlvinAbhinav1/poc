@@ -1,0 +1,5 @@
+streamlit==1.30.0
+streamlit-authenticator==0.1.5
+streamlit-folium==0.6.14
+altair==4.2.2
+plotly-express==0.4.1
